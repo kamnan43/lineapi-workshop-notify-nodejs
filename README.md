@@ -11,3 +11,9 @@ then update token in config.json
 npm install
 node index.js
 ```
+
+# Try More
+Un-comment following lines in index.js to see more action
+// sendImageUrl();
+// sendImageFile();
+// sendSticker();
