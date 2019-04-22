@@ -1,7 +1,7 @@
 {
   "name": "lineapi-workshop-notify-nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "LINE Notify code sample for LINE API Workshop",
   "main": "index.js",
   "dependencies": {
     "request": "^2.88.0",
